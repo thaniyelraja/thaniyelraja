@@ -21,7 +21,9 @@ Aspiring Software Developer
 <!-- ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> --> 
 
-![Thaniyel Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaniyelraja&theme=dark&show_icons=true&hide=issues,contribs)
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thaniyelraja&theme=dark)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/thaniyelrajaa?ext=contest&theme=dark)](https://leetcode.com/thaniyelrajaa)
 
