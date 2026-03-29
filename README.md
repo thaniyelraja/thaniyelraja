@@ -4,7 +4,7 @@ Aspiring Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!-- - 🔭 Here's my [portfolio](https://hareesh.web.app/) -->                                                 
 - 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development
-- Engineering at [<img src="[https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75](https://www.bing.com/images/search?view=detailV2&ccid=7%2B4oi1jQ&id=B8D86F4D38FDD0BFE4D60AAAA1F107D0A882EF83&thid=OIP.7-4oi1jQUXgg06GBg02hXAHaB_&mediaurl=https%3A%2F%2Ftec-edu.in%2Fwp-content%2Fuploads%2F2024%2F07%2FCollege-website-logo-800x216.png&exph=216&expw=800&q=thamirabharani+engineering+college&form=IRPRST&ck=D4E98A88DE51689416859120CBF52BE5&selectedindex=2&itb=0&cw=1375&ch=628&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_9VOlqzLQ*cp_1364663938F765A03B3C77FBAA1461DB*mid_D56A0EE22C49742A866CCD685FCC0BD9D06FEF12*thid_OIP.9VOlqzLQce1v3JRu!_DKRigAAAA&vt=0&sim=11&iss=VSI)" height="24">](https://tec-edu.in/index),
+- Engineering at [<img src="https://tec-edu.in/images/logo.jpg" height="24">](https://tec-edu.in/index),
 <!-- - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
 - ⚡ Fun fact: Curious mind.
 - Social Presence
