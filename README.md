@@ -1,7 +1,4 @@
 ### Hi there 👋 It's me Thaniyel Raja A
-
-<br />
-
 Java Full Stack Developer <br />
 I am a Computer Science engineering student with an interest in software development. I have worked on building web applications and REST APIs, and gained hands-on experience in backend development and real-time systems through my projects and internship.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
