@@ -13,23 +13,23 @@ Java Full Stack Developer <img align="right" width="370" height="290" src="https
 <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" />&nbsp;
+<img height="50" src="https://img.icons8.com/office/40/react.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/fluency/48/sql.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />&nbsp;
-<img height="50" src="https://img.icons8.com/officel/80/spring-logo.png" />
+<img height="50" src="https://img.icons8.com/officel/80/spring-logo.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;
 </p>
 
 ### IDE and Tools I Use
 <p align="left">
-<img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>&nbsp;
-  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
-
+<img height="50" src="https://img.icons8.com/color/50/000000/git.png" />&nbsp;
+<img height="50" src="https://img.icons8.com/ios-glyphs/30/github.png" />&nbsp;
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>&nbsp;
 </p>
 
