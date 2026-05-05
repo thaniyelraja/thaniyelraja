@@ -6,7 +6,7 @@ Aspiring Software Developer
 - 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development
 - Engineering at [<img src="https://tec-edu.in/images/logo.jpg" height="24">](https://tec-edu.in/index),
 <!-- - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
-- ⚡ Fun fact: Curious mind.
+- ⚡ Fun fact: I am a pharmacist.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thaniyel-raja-a-/) <br/>
 
