@@ -20,7 +20,8 @@ Java Full Stack Developer <img align="right" width="370" height="290" src="https
 <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;
-<img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+<img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />&nbsp;
+<img height="50" src="https://img.icons8.com/officel/80/spring-logo.png" />
 </p>
 
 ### IDE and Tools I Use
