@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Thaniyel Raja A
+### Hi there 👋 It's me Thaniyel Raja A
 
 <br />
 
@@ -12,7 +12,7 @@ Java Full Stack Developer
 
 <br />
 
-## 🚀 What I'm Working On
+### What I'm Working On
 
 - 🔧 Building REST APIs for real-time vehicle tracking systems  
 - 📡 Handling GPS data processing and middleware logic  
@@ -51,11 +51,11 @@ Java Full Stack Developer
 
 <br />
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thaniyelraja&theme=dark)
 
-## 📊 Leetcode Stats
+### 📊 Leetcode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/thaniyelrajaa?ext=contest&theme=dark)](https://leetcode.com/thaniyelrajaa)
 
