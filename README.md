@@ -26,7 +26,7 @@ Aspiring Software Developer
 </p>
 
 ### IDE and Tools I Use
-<p align="center">
+<p align="left">
 <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
 <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>&nbsp;
 <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>&nbsp;
