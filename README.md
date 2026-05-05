@@ -13,7 +13,7 @@ and real-time systems through my projects and internship.
 🔭 Here's my <a href="https://hareesh.web.app/">portfolio</a>  
 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development  
 🎓 Engineering at <a href="https://tec-edu.in/index"><img src="https://tec-edu.in/images/logo.jpg" height="30"></a>  
-⚡ Fun fact: I am a pharmacist  
+⚡ Fun fact: I'm a pharmacist  
 
 Social Presence  
 <a href="https://www.linkedin.com/in/thaniyel-raja-a-/">
@@ -22,9 +22,9 @@ Social Presence
 
 ### What I'm Working On
 
-- Building REST APIs for real-time vehicle tracking systems  
-- Handling GPS data processing and middleware logic  
-- Focused on debugging and backend performance
+- Building scalable REST APIs using Java and Spring Boot  
+- Designing backend logic and handling database interactions  
+- Enhancing debugging, troubleshooting, and performance optimization 
 
 <br />
 
