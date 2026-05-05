@@ -28,7 +28,7 @@ Java Full Stack Developer <img align="right" width="370" height="290" src="https
 ### IDE and Tools I Use
 <p align="left">
 <img height="50" src="https://img.icons8.com/color/50/000000/git.png" />&nbsp;
-<img height="50" src="https://img.icons8.com/ios-glyphs/30/github.png" />&nbsp;
+<img height="50" src="[https://img.icons8.com/liquid-glass/48/github.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>&nbsp;
 </p>
