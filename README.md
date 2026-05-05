@@ -1,8 +1,7 @@
-### Hi there 👋 It's me Thaniyel Raja A
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-Java Full Stack Developer
+### Hi there 👋 It's me Thaniyel Raja A
 
-<br />
+Java Full Stack Developer
 
 I am a Computer Science engineering student with an interest 
 in software development. I have worked on building web applications 
