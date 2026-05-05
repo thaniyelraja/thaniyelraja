@@ -3,6 +3,7 @@
 
 Java Full Stack Developer
 
+## About me
 I am a Computer Science engineering student with an interest 
 in software development. I have worked on building web applications 
 and REST APIs, and gained hands-on experience in backend development 
