@@ -1,10 +1,8 @@
 ## Hi there 👋 It's me Thaniyel Raja
 
-Java Full Stack Developer
-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Java Full Stack Developer <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)
-- 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development - Engineering at [<img src="https://tec-edu.in/images/logo.jpg" height="24">](https://tec-edu.in/index),
-- <!-- - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
+- 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development - Engineering at [<img src="https://tec-edu.in/images/logo.jpg" height="24">](https://tec-edu.in/index),<!-- - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
 - ⚡ Fun fact: I am a pharmacist.
 - Social Presence <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thaniyel-raja-a-/)
 <br/>
