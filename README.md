@@ -4,30 +4,21 @@
 Java Full Stack Developer
 
 ### About me
-I am a Computer Science engineering student with an interest 
-in software development. I have worked on building web applications 
-and REST APIs, and gained hands-on experience in backend development 
-and real-time systems through my projects and internship.
 
-<ul>
-<li>🔭 Here's my <a href="https://hareesh.web.app/">portfolio</a></li>
+I am a Computer Science engineering student with an interest  
+in software development. I have worked on building web applications  
+and REST APIs, and gained hands-on experience in backend development  
+and real-time systems through my projects and internship.  
 
-<li>🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development</li>
+🔭 Here's my <a href="https://hareesh.web.app/">portfolio</a>  
+🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development  
+🎓 Engineering at <a href="https://tec-edu.in/index"><img src="https://tec-edu.in/images/logo.jpg" height="30"></a>  
+⚡ Fun fact: I am a pharmacist  
 
-<li>Engineering at 
-<a href="https://tec-edu.in/index">
-  <img src="https://tec-edu.in/images/logo.jpg" height="30">
-</a>
-</li>
-
-<li>⚡ Fun fact: I am a pharmacist.</li>
-
-<li>Social Presence <br/>
+Social Presence  
 <a href="https://www.linkedin.com/in/thaniyel-raja-a-/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</li>
-</ul>
   
 <br />
 
