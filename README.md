@@ -12,7 +12,7 @@ and real-time systems through my projects and internship.
 
 🔭 Here's my <a href="https://hareesh.web.app/">portfolio</a>  
 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development  
-🎓 Engineering at TEC <a href="https://tec-edu.in/index"><img src="https://tec-edu.in/images/logo.jpg" height="24"></a>  
+🎓 Engineering at <a href="https://tec-edu.in/index"><img src="https://tec-edu.in/images/logo.jpg" height="24"></a>  
 ⚡ Fun fact: I'm a pharmacist  
 
 Social Presence  
