@@ -54,13 +54,13 @@ and real-time systems through my projects and internship.
 
 <br />
 
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thaniyelraja&theme=dark)
-
 ### Leetcode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/thaniyelrajaa?ext=contest&theme=dark)](https://leetcode.com/thaniyelrajaa)
+
+### GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thaniyelraja&theme=dark)
 
 ### Github activity graph
 
