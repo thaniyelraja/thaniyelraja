@@ -8,12 +8,13 @@ I am a Computer Science engineering student with an interest
 in software development. I have worked on building web applications 
 and REST APIs, and gained hands-on experience in backend development 
 and real-time systems through my projects and internship.
+<div align="left">
 🔭 Here's my [portfolio](https://hareesh.web.app/)
 🌱 Currently learning Data Structures & Algorithms and exploring AI integration in development
 Engineering at [<img src="https://tec-edu.in/images/logo.jpg" height="30">](https://tec-edu.in/index),
 ⚡ Fun fact: I am a pharmacist.
 Social Presence <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thaniyel-raja-a-/)
-
+</div>
 <br />
 
 ### What I'm Working On
