@@ -30,7 +30,7 @@ Java Full Stack Developer <img align="right" width="370" height="290" src="https
 <img height="50" src="https://img.icons8.com/liquid-glass/48/github.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
 <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" />&nbsp;
-<img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
+<img height="50" src="https://img.icons8.com/dusk/64/postman-api.png" />
 </p>
 
 
